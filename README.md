@@ -107,13 +107,6 @@ Stores transactional order data.
 
 ---
 
-## 🎯 Conclusion
-This project demonstrates how SQL can be used to convert raw data into
-actionable business insights.  
-It reflects real-world analytical problem-solving in the **food delivery e-commerce domain**.
-
----
-
 ## 👤 Author
 **Dhruv Rapariya**  
 SQL | Data Analytics | Student Project
